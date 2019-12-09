@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         animDrawable.setEnterFadeDuration(10)
         animDrawable.setExitFadeDuration(5000)
         animDrawable.start()
+
+        //This is my test code
     }
 }
